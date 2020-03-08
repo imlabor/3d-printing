@@ -7,4 +7,4 @@ Accessories for 3D Printing
 
 
 
-![ender3pro](https://github.com/imlabor/3d-printing/blob/master/ender3pro.jpg?raw=true)
+![ender3pro](https://github.com/imlabor/3d-printing/blob/master/ender3_printer_with_lcd_octoprint.jpg)
